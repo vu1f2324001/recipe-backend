@@ -12,7 +12,7 @@ A full-stack **Recipe** web application with:
 ## Project Structure
 
 - `recipe-backend/` — Express API (auth, recipes, upload)
-- `recipe-frontend/` — Static frontend (HTML/CSS/JS)
+- `recipe-frontend/` — Static frontend (HTML/CSS/JS) 
 
 ---
 
